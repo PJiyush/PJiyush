@@ -3,13 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pjiyush&label=Profile%20views&color=0e75b6&style=flat" alt="pjiyush" /> </p>
 
-
-
-- 🌱 I’m currently learning **Pytorch**
-
-- 👨‍💻 All of my projects are available at [https://pjiyush.github.io/PortfolioWebsite/](https://pjiyush.github.io/PortfolioWebsite/)
-
-- 💬 Ask me about **MERN Stack and scikit learn**
+- 👨‍💻 All of my projects are available at [https://pjiyush.github.io/Portfolio-website/](https://pjiyush.github.io/Portfolio-website/)
 
 - 📫 How to reach me **jhamani.1@iitj.ac.in**
 
